@@ -1,5 +1,0 @@
-python-telegram-bot[job-queue]
-requests
-cachetools
-colorama
-python-dotenv
